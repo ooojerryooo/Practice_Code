@@ -11,7 +11,7 @@ def calc(exp):
 def main():
     r = calc('100 + 200 + 345')
     print('100 + 2000 + 345 =', r)
-    r = calc('99 + 88 + 7.6')
+    r = calc('99 + 888 + 7.6')
     print('99 + 88 + 7.6 =', r)
 
 main()
