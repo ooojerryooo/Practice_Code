@@ -16,6 +16,6 @@ class Chain():
     __repr__ = __str__
 
 if __name__ == '__main__':
-    print(Chain().abc.ddd.nnn('123'))
+    print(Chain().abc.ddd.nnn('123').sdfdfdsf('sdfd'))
 
 
